@@ -1,0 +1,29 @@
+html {
+    background-color: #efebe9;
+}
+
+table {
+    margin: 0 auto;
+    border: 5px solid rgb(55, 55, 55);
+    border-collapse: collapse;
+    background-color: #fafafa;
+}
+
+td {
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Roboto', sans-serif;
+    width: 120px;
+    height: 120px;
+    border: 1px solid rgb(55, 55, 55);
+    cursor: pointer;
+}
+
+.title {
+    text-align: center;
+    margin-top: 200px;
+    font-family: 'Goblin One', cursive;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
